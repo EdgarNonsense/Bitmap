@@ -1,0 +1,8 @@
+What happens if the player enters a blank string for the message?
+* Either the process ends, or it gives a blank map
+Does it matter what the nonspace characters are in the bitmap variable’s string?
+*  It doesn't matter
+What does the i variable created on line 45 represent?
+* it represents every character in the input
+What bug happens if you delete or comment out print() on line 52?
+* removes a new line after putting an input, making the bitmap full spread out instead of how it normally is.
